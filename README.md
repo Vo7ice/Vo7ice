@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Vo7ice's github stats](https://github-readme-stats.vercel.app/api?username=Vo7ice&show_icons=true&theme=dark)
 <!--
 **Vo7ice/Vo7ice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
